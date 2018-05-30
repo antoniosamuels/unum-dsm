@@ -10,6 +10,8 @@
 
 
 ## Updates:
-#### May 24 2018
+#### May 30 2018
+• Remove Unum Sky from the Color Palette
 
-Added form fields
+#### May 24 2018
+• Added form fields
