@@ -11,7 +11,9 @@
 
 ## Updates:
 #### May 30 2018
-• Remove Unum Sky from the Color Palette
+• Remove Unum Sky from the color palette
+• Update Unum logo
+• Update button color of primary button
 
 #### May 24 2018
 • Added form fields
