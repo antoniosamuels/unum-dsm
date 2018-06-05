@@ -10,6 +10,9 @@
 
 
 ## Updates:
+#### June 5 2018
+* Update link color and hover color
+
 #### May 30 2018
 * Remove Unum Sky from the color palette
 * Update Unum logo
