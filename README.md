@@ -10,6 +10,9 @@
 
 
 ## Updates:
+#### July 6 2018
+* Add product icons to iconography library
+
 #### June 5 2018
 * Update link color and hover color
 
