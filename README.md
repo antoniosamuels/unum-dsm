@@ -10,6 +10,9 @@
 
 
 ## Updates:
+#### July 9 2018
+* Added product icons in Illustrator format
+
 #### July 6 2018
 * Add product icons to iconography library
 * Add Interface icons to iconography library
