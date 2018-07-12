@@ -10,6 +10,10 @@
 
 
 ## Updates:
+#### July 12 2018
+* Added product icons in svg and png
+* Uploaded utility icons
+
 #### July 9 2018
 * Added product icons in Illustrator format
 
