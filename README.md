@@ -10,6 +10,9 @@
 
 
 ## Updates:
+#### July 23 2018
+* Update life icon to the leaf design
+
 #### July 12 2018
 * Added product icons in svg and png
 * Uploaded utility icons
