@@ -1,7 +1,6 @@
 # unum-dsm
 
-### Sketch application required for use
-
+## Sketch application required for use
 
 ### Suggested Sketch Plugins
 
@@ -9,8 +8,15 @@
 2. [Auto-layout] (https://github.com/AnimaApp/Auto-Layout)
 
 
+## Iconography
+- Don’t use more than one hue per object
+- Don’t use more than 3 colors per icon
+- Don’t use gradients
+
+
 ## Updates:
 #### July 23 2018
+* Include products in Unum and Colonial Life Blue
 * Update life icon to the leaf design
 
 #### July 12 2018
